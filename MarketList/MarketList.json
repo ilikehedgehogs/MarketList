@@ -1,0 +1,15 @@
+{
+    "Author": "ilikehedgehogs",
+    "Name": "MarketList",
+    "Punchline": "Run through shopping lists faster.",
+    "Description": "/marketlist to open the main window.",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "market",
+        "plugin",
+        "list",
+        "shopping",
+        "price",
+        "helper"
+    ]
+}

@@ -1,8 +1,7 @@
-﻿using Dalamud.Configuration;
-using Dalamud.Plugin;
+using Dalamud.Configuration;
 using System;
 
-namespace SamplePlugin;
+namespace MarketList;
 
 [Serializable]
 public class Configuration : IPluginConfiguration
